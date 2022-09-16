@@ -67,6 +67,15 @@ body {
   -webkit-font-smoothing: auto;
 }
 
+#div-logo{
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-right: 24px;
+}
+
 .button {
   background-color: var(--base-color);
   color: var(--text-color-light);
